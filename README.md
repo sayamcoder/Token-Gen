@@ -1,7 +1,6 @@
 # Python Secure Token Generator
 
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 A simple, powerful, and secure token generator module written in Python. It uses the built-in `secrets` module to generate cryptographically strong random tokens, making it suitable for security-sensitive applications like API keys, session identifiers, password reset links, and more.
